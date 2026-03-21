@@ -1,0 +1,20 @@
+# pipパッケージ削除用
+pip-autoremove
+
+# JupyterLab
+jupyterlab
+jupyterlab-lsp
+jupyterlab-codeium
+
+# Jupyter AI
+jupyter-ai
+
+# 基本パッケージ
+setuptools
+pandas
+matplotlib
+japanize-matplotlib
+
+# tqdm（ループ処理の進捗表示）
+tqdm
+ipywidgets

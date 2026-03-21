@@ -1,0 +1,6 @@
+# venv
+.venv/*
+!.venv/.gitkeep
+
+# Jupyter Notebook
+.ipynb_checkpoints
