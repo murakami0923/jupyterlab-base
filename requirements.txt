@@ -6,6 +6,9 @@ jupyterlab
 jupyterlab-lsp
 jupyterlab-codeium
 
+# .envを使用
+python-dotenv
+
 # Jupyter AI
 jupyter-ai
 
