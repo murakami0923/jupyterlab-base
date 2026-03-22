@@ -11,6 +11,8 @@ echo "--------------------------------------------------------------------------
 echo ""
 echo ""
 
+sleep 5
+
 source ./.venv/bin/activate
 
 jupyter-lab --ip=0.0.0.0 --port=${PORT} --NotebookApp.token=${TOKEN} --notebook-dir=./notebooks/
