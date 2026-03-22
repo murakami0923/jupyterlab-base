@@ -4,10 +4,13 @@ pip-autoremove
 # JupyterLab
 jupyterlab
 jupyterlab-lsp
-jupyterlab-codeium
+jupyterlab_codeium
+
+# .envを使用
+python-dotenv
 
 # Jupyter AI
-jupyter-ai
+jupyter_ai
 
 # 基本パッケージ
 setuptools

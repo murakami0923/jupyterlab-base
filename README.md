@@ -62,7 +62,3 @@ JupyterLabを起動するには、以下のコマンドを実行します。
 
 続いてJupyterLabが起動しますので、起動し終わったら、Webブラウザを起動し、先ほどコピーしたURLにアクセスします。
 
-## ライセンス
-
-本プロジェクトは **GNU General Public License v3.0 (GPLv3)** の下で公開されています。
-詳細は LICENSE.txt を参照してください。
