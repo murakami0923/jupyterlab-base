@@ -2,5 +2,5 @@
 
 source ./.venv/bin/activate
 
-pip install --upgrade pip
+pip install --upgrade pip==26.0.1
 

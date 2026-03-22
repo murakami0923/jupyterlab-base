@@ -1,23 +1,23 @@
 # pipパッケージ削除用
-pip-autoremove
+pip-autoremove==0.10.0
 
 # JupyterLab
-jupyterlab
-jupyterlab-lsp
-jupyterlab_codeium
+jupyterlab==4.5.6
+jupyterlab-lsp==5.2.0
+jupyterlab_codeium==0.1.1
 
 # .envを使用
-python-dotenv
+python-dotenv==1.2.2
 
 # Jupyter AI
-jupyter_ai
+jupyter_ai==2.31.7
 
 # 基本パッケージ
-setuptools
-pandas
-matplotlib
-japanize-matplotlib
+setuptools==82.0.1
+pandas==3.0.1
+matplotlib==3.10.8
+japanize-matplotlib==1.1.3
 
 # tqdm（ループ処理の進捗表示）
-tqdm
-ipywidgets
+tqdm==4.67.3
+ipywidgets==8.1.8
