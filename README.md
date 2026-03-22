@@ -3,6 +3,23 @@
 データ分析およびAI活用を目的としたJupyterLabのベース環境構築用プロジェクトです。
 Jupyter AIやCodeiumなどのAI支援ツールや、日本語化されたグラフ描画環境を含んでいます。
 
+# 目次
+
+- [JupyterLab Base Environment](#jupyterlab-base-environment)
+- [目次](#目次)
+  - [主な機能・ライブラリ](#主な機能ライブラリ)
+    - [Core / IDE](#core--ide)
+    - [AI Integration](#ai-integration)
+    - [Data Analysis \& Visualization](#data-analysis--visualization)
+    - [Utilities](#utilities)
+  - [インストール、使用方法](#インストール使用方法)
+    - [前提](#前提)
+    - [初回インストール](#初回インストール)
+    - [パッケージの追加・更新](#パッケージの追加更新)
+    - [JupyterLabの起動](#jupyterlabの起動)
+  - [ライセンス](#ライセンス)
+
+
 ## 主な機能・ライブラリ
 
 `requirements.txt` に基づく主要な構成要素は以下の通りです。
@@ -62,3 +79,8 @@ JupyterLabを起動するには、以下のコマンドを実行します。
 
 続いてJupyterLabが起動しますので、起動し終わったら、Webブラウザを起動し、先ほどコピーしたURLにアクセスします。
 
+## ライセンス
+
+本プロジェクトは MIT License の下で公開されています。
+
+詳細は LICENSE.txt を参照してください。
