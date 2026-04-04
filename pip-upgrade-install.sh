@@ -7,6 +7,8 @@ fi
 
 source ./.venv/bin/activate
 
-pip install --upgrade pip
+echo "pipをアップグレードします"
+uv pip install --upgrade pip
 
-pip install -r requirements.txt
+echo "パッケージをインストールします"
+uv pip install -r requirements.txt
