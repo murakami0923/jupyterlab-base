@@ -9,6 +9,3 @@ source ./.venv/bin/activate
 
 echo "pipをアップグレードします"
 uv pip install --upgrade pip
-
-echo "パッケージをインストールします"
-uv pip install -r requirements.txt
